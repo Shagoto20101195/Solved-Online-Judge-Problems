@@ -1,4 +1,3 @@
-//Written by Shagoto
 import java.util.*;
 import java.io.*;
 public class WeirdAlgorithm
